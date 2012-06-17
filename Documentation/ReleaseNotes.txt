@@ -1,0 +1,18 @@
+<h3>DotNetNuke Social Events</h3>
+<p class="Contributor">
+	DotNetNuke&reg; <br />
+	<a href="mailto:support@dotnetnuke.com">support@dotnetnuke.com</a><br />
+	<a href=http://www.dotnetnuke.com>http://www.dotnetnuke.com</a><br />
+</p>
+<hr/>
+<div class="License">
+	<p class="Owner">
+		<h3>About DotNetNuke Social Events</h3>
+		<strong>Verion 1.0.0 </strong><br /><br />		
+		This is the initial release of the module. It is currently meant to be used only on group child pages to allow members to create events. <br /><br />
+		Known Issues:
+		<ul>
+			<li>Uninstall can have issues if all not all notifications are deleted first (just shows a FK error related to DesktopModuleID, allows module to uninstall though). There is an option to add a App_GlobalResources and SharedResources.resx there withouth ID.</li>
+		</ul>
+	</p>
+</div>
