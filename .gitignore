@@ -1,0 +1,7 @@
+
+Tests/obj/*
+*_ReSharper*
+obj/*
+Tests/bin/*
+*.suo
+*.csproj.user
